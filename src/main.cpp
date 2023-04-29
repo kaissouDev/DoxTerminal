@@ -11,7 +11,7 @@ int main() {
     fs::path current_path = fs::current_path();
     std::string input;
     while (true) {
-        std::cout << current_path.string() << "\ $DOX: ";
+        std::cout << current_path.string() << "\ $DOX #: ";
         std::getline(std::cin, input);
 
         if (input == "dox --version") {
