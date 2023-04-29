@@ -4,7 +4,7 @@ to ask me for a collaboration:
 
 KaissouTeams@gmail.com
 
-Warning! this project has for license the GPL3 so if you want to modify and distribute the code of Dox you must have the source!
+Warning! this project has for license the GPL2 so if you want to modify and distribute the code of Dox you must have the source!
 
 
 <b>Exemple</b>
